@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Martin/Downloads/W87A-PROGR.-MOVIL-II-EJ22-main/W87A-PROGR.-MOVIL-II-EJ22-main/ClienteContentProvider/app/src/main/res/layout/activity_main.xml" value="0.27807971014492755" />
+        <entry key="..\:/Users/edgar/AndroidStudioProjects/ClientContentProvider/app/src/main/res/drawable/outline_account_circle_24.xml" value="0.329" />
+        <entry key="..\:/Users/edgar/AndroidStudioProjects/ClientContentProvider/app/src/main/res/drawable/outline_delete_24.xml" value="0.173" />
+        <entry key="..\:/Users/edgar/AndroidStudioProjects/ClientContentProvider/app/src/main/res/layout/activity_add_user.xml" value="0.3625" />
+        <entry key="..\:/Users/edgar/AndroidStudioProjects/ClientContentProvider/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/edgar/AndroidStudioProjects/ClientContentProvider/app/src/main/res/layout/activity_update_user.xml" value="0.33" />
+        <entry key="..\:/Users/edgar/AndroidStudioProjects/ClientContentProvider/app/src/main/res/layout/list_item.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/linse/Downloads/AndroidClientContentProvider-main/AndroidClientContentProvider-main/app/src/main/res/layout/activity_add_user.xml" value="0.22" />
+        <entry key="..\:/Users/linse/Downloads/AndroidClientContentProvider-main/AndroidClientContentProvider-main/app/src/main/res/layout/activity_main.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/linse/Downloads/AndroidClientContentProvider-main/AndroidClientContentProvider-main/app/src/main/res/layout/activity_update_user.xml" value="0.171875" />
+        <entry key="..\:/Users/linse/Downloads/AndroidClientContentProvider-main/AndroidClientContentProvider-main/app/src/main/res/layout/list_item.xml" value="0.24682971014492755" />
       </map>
     </option>
   </component>
